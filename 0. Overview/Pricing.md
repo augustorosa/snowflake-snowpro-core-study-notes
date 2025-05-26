@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [OrganizationsAccountsDatabasesAndSchemas.md](OrganizationsAccountsDatabasesAndSchemas.md) | Next: [ResourceMonitors.md](../1. VirtualWarehouses/ResourceMonitors.md)
+
 # Pricing #
 
 Snowflake pricing and cost are based on the actual usage. You pay for what you use and scale storage and compute independently.

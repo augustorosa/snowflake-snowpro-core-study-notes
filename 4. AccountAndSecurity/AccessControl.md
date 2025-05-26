@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Overview.md](../3. DataMovement/Overview.md) | Next: [Authentication.md](Authentication.md)
+
 # Access Control #
 
 > [Overview of Access Control](https://docs.snowflake.com/en/user-guide/security-access-control-overview.html)

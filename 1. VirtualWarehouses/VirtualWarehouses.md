@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [ResourceMonitors.md](ResourceMonitors.md) | Next: [DataStorageLayer.md](../2. Storage/DataStorageLayer.md)
+
 # Virtual Warehouses #
 
 Virtual Warehouses (VWs) are the compute layer in Snowflake's architecture. It is a logical wrapper around a cluster of servers with CPU, memory and disk. Data Warehouses are used to perform queries and DML operations (like loading data into tables).

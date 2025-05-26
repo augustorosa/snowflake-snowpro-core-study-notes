@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [ConnectorsAndDrivers.md](ConnectorsAndDrivers.md) | Next: [ODBC_JDBC.md](ODBC_JDBC.md)
+
 # Integrations
 
 *Notes related to Client Tools and Connectivity: Snowflake integrations with other tools and services.*

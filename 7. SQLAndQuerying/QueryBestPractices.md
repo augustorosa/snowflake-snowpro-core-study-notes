@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Overview.md](Overview.md) | Next: [DataExchange.md](../8. MarketplaceAndDataExchange/DataExchange.md)
+
 # Query Best Practices
 
 *Notes related to SQL and Querying: Best practices for writing efficient queries in Snowflake.*

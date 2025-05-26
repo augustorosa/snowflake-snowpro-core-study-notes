@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [VirtualWarehouses.md](../1. VirtualWarehouses/VirtualWarehouses.md) | Next: [ZeroCopyCloning.md](ZeroCopyCloning.md)
+
 # Data Storage Layer #
 
 The Data Storage Layer is Snowflake managed cloud-based storage available in the major cloud providers (AWS, Azure and GCP).

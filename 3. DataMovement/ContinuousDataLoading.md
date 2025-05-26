@@ -1,4 +1,4 @@
-[Back to README](../README.md) | Previous: [Bulk Loading](BulkLoading.md) | Next: [Continuous Data Processing](ContinuousDataProcessing.md)
+[Back to README](../README.md) | Previous: [BulkLoading.md](BulkLoading.md) | Next: [ContinuousDataProcessing.md](ContinuousDataProcessing.md)
 
 # Continuous Loading #
 

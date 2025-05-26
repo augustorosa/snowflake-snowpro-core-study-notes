@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Authentication.md](Authentication.md) | Next: [DataProtection.md](DataProtection.md)
+
 # Authorization #
 
 Snowflake's authorization model is a combination of:
@@ -86,4 +88,3 @@ SHOW GRANTS OF ROLE <ROLE>;
     AND auth_table.role = CURRENT_ROLE()
   ;
   ```
-

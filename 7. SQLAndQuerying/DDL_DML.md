@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [QuerySemiStructuredData.md](../6. SemiStructuredData/QuerySemiStructuredData.md) | Next: [Functions.md](Functions.md)
+
 # DDL and DML
 
 *Notes related to SQL and Querying: Data Definition Language (DDL) and Data Manipulation Language (DML) commands.*

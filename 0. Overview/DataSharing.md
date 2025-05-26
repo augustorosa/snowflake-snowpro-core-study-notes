@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Architecture.md](Architecture.md) | Next: [Editions.md](Editions.md)
+
 # Data Sharing #
 
 > [Introduction to Secure Data Sharing](https://docs.snowflake.com/en/user-guide/data-sharing-intro.html)

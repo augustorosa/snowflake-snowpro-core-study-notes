@@ -1,3 +1,5 @@
+Next: [0. Overview.md](0. Overview/0. Overview.md)
+
 # Snowflake Snow Pro Core Exam Preparation Course Notes #
 
 > * [SnowPro Certifications](https://www.snowflake.com/certifications/)
@@ -85,8 +87,8 @@ Read every single “Reading Assets” article from the [[COF-C02] SnowPro Core 
 
 ### Topics Quizzed on Exams ###
 * [Working with Secure Views](https://docs.snowflake.com/en/user-guide/views-secure.html)
-* [Working with Resource Monitors](https://docs.snowflake.com/en/user-guide/resource-monitors.html)
-* [Directory Tables](https://docs.snowflake.com/en/user-guide/data-load-dirtables.html)
+* [Working with Resource Monitors](https://docs.snowflake.com/en-user-guide/resource-monitors.html)
+* [Directory Tables](https://docs.snowflake.com/en-user-guide/data-load-dirtables.html)
 
 ### Sample Exams ###
 

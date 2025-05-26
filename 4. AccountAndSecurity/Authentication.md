@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [AccessControl.md](AccessControl.md) | Next: [Authorization.md](Authorization.md)
+
 # Authentication #
 
 Identifies the user and confirms whether they are allowed to login.

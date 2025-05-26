@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [SnowSQL.md](SnowSQL.md)
+
 # Snowsight
 
 *Notes related to Client Tools and Connectivity: Using the Snowsight web interface.*
