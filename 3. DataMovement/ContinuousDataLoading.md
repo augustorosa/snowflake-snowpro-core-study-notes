@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Bulk Loading](BulkLoading.md) | Next: [Continuous Data Processing](ContinuousDataProcessing.md)
+
 # Continuous Loading #
 
 There are different ways to ingest data continuously into Snowflake:
@@ -24,7 +26,7 @@ Snowpipe can be notified of new files in the stage in one of two ways:
   * It requires key pair authentication with a JSON Web Token (JWT)
   * APIs endpoints available:
     * Data File Ingestion: `insertFiles`
-    * Load History Reports: `insertReport` and `loadHistoryScan` 
+    * Load History Reports: `insertReport` and `loadHistoryScan`
 * You can setup a task which would run the `ALTER PIPE <pipe_name> REFRESH` command on a schedule
 
 Alternatively, you can use the Snowpipe `AUTO_INGEST` method, together with notifications setup on your cloud provider so the pipe is automatically notified when a file lands in the stage

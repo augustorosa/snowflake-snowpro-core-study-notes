@@ -4,79 +4,79 @@
 > * [[COF-C02] SnowPro Core Certification Exam Guide](https://learn.snowflake.com/courses/course-v1:snowflake+CERT-SPC-GUIDE+B/about)
 
 ## Snowflake Overview and Architecture ##
-* [Architecture](Overview/Architecture.md)
-* [Snowflake Editions](Overview/Editions.md)
-* [Object Model](Overview/ObjectModel.md)
-  * [Organizations, Accounts, Databases And Schemas](Overview/OrganizationsAccountsDatabasesAndSchemas.md)
-* [Data Sharing](Overview/DataSharing.md)
-* [Pricing](Overview/Pricing.md)
-* [Overview](Overview/Overview.md)
+* [Architecture](0.%20Overview/Architecture.md)
+* [Snowflake Editions](0.%20Overview/Editions.md)
+* [Object Model](0.%20Overview/ObjectModel.md)
+  * [Organizations, Accounts, Databases And Schemas](0.%20Overview/OrganizationsAccountsDatabasesAndSchemas.md)
+* [Data Sharing](0.%20Overview/DataSharing.md)
+* [Pricing](0.%20Overview/Pricing.md)
+* [Overview](0.%20Overview/Overview.md)
 
 ## Virtual Warehouses ##
-* [Virtual Warehouses](VirtualWarehouses/VirtualWarehouses.md)
-* [Resource Monitors](VirtualWarehouses/ResourceMonitors.md)
+* [Virtual Warehouses](1.%20VirtualWarehouses/VirtualWarehouses.md)
+* [Resource Monitors](1.%20VirtualWarehouses/ResourceMonitors.md)
 
 ## Storage and Data Protection ##
-* [Data Storage Layer](Storage/DataStorageLayer.md)
-* [Zero-Copy Cloning](Storage/ZeroCopyCloning.md) 
+* [Data Storage Layer](2.%20Storage/DataStorageLayer.md)
+* [Zero-Copy Cloning](2.%20Storage/ZeroCopyCloning.md)
 
 ## Data Movement ##
-* [Overview](DataMovement/Overview.md)
-* [Bulk Loading](DataMovement/BulkLoading.md)
-* [Continuous Loading](DataMovement/ContinuousDataLoading.md)
-* [Continuous Processing](DataMovement/ContinuousDataProcessing.md)
-* [Data Unloading](DataMovement/DataUnloading.md)
+* [Overview](3.%20DataMovement/Overview.md)
+* [Bulk Loading](3.%20DataMovement/BulkLoading.md)
+* [Continuous Data Loading](3.%20DataMovement/ContinuousDataLoading.md)
+* [Continuous Data Processing](3.%20DataMovement/ContinuousDataProcessing.md)
+* [Data Unloading](3.%20DataMovement/DataUnloading.md)
 
 ## Account and Security ##
-* [Overview](AccountAndSecurity/Overview.md)
-* [Access Control](AccountAndSecurity/AccessControl.md)
-* [Authentication](AccountAndSecurity/Authentication.md)
-* [Authorization](AccountAndSecurity/Authorization.md)
-* [Data Protection](AccountAndSecurity/DataProtection.md)
+* [Overview](4.%20AccountAndSecurity/Overview.md)
+* [Access Control](4.%20AccountAndSecurity/AccessControl.md)
+* [Authentication](4.%20AccountAndSecurity/Authentication.md)
+* [Authorization](4.%20AccountAndSecurity/Authorization.md)
+* [Data Protection](4.%20AccountAndSecurity/DataProtection.md)
 
 ## Performance and Tuning ##
-* [Overview](PerformanceAndTuning/Overview.md)
-* [Caching](PerformanceAndTuning/Caching.md)
-* [Data Clustering](PerformanceAndTuning/DataClustering.md)
-* [Virtual Warehouse Scaling](PerformanceAndTuning/VirtualWarehouseScaling.md)
-* [Materialized Views](PerformanceAndTuning/MaterializedViews.md) 
+* [Overview](5.%20PerformanceAndTuning/Overview.md)
+* [Caching](5.%20PerformanceAndTuning/Caching.md)
+* [Data Clustering](5.%20PerformanceAndTuning/DataClustering.md)
+* [Virtual Warehouse Scaling](5.%20PerformanceAndTuning/VirtualWarehouseScaling.md)
+* [Materialized Views](5.%20PerformanceAndTuning/MaterializedViews.md)
 
 ## Semi-Structured Data ##
-* [Overview](SemiStructuredData/Overview.md)
-* [Query Semi-Structured Data](SemiStructuredData/QuerySemiStructuredData.md)
-* [Load and Unload Semi-Structured Data](SemiStructuredData/LoadAndUnloadSemiStructuredData.md)
+* [Overview](6.%20SemiStructuredData/Overview.md)
+* [Query Semi-Structured Data](6.%20SemiStructuredData/QuerySemiStructuredData.md)
+* [Load and Unload Semi-Structured Data](6.%20SemiStructuredData/LoadAndUnloadSemiStructuredData.md)
 
 ## SQL and Querying ##
-* [Overview](SQLAndQuerying/Overview.md)
-* [DDL and DML](SQLAndQuerying/DDL_DML.md)
-* [Functions](SQLAndQuerying/Functions.md)
-* [Query Best Practices](SQLAndQuerying/QueryBestPractices.md)
+* [Overview](7.%20SQLAndQuerying/Overview.md)
+* [DDL and DML](7.%20SQLAndQuerying/DDL_DML.md)
+* [Functions](7.%20SQLAndQuerying/Functions.md)
+* [Query Best Practices](7.%20SQLAndQuerying/QueryBestPractices.md)
 
 ## Marketplace and Data Exchange ##
-* [Overview](MarketplaceAndDataExchange/Overview.md)
-* [Data Marketplace](MarketplaceAndDataExchange/DataMarketplace.md)
-* [Data Exchange](MarketplaceAndDataExchange/DataExchange.md)
+* [Overview](8.%20MarketplaceAndDataExchange/Overview.md)
+* [Data Marketplace](8.%20MarketplaceAndDataExchange/DataMarketplace.md)
+* [Data Exchange](8.%20MarketplaceAndDataExchange/DataExchange.md)
 
 ## Snowpark and Extensibility ##
-* [Overview](SnowparkAndExtensibility/Overview.md)
-* [Snowpark](SnowparkAndExtensibility/Snowpark.md)
-* [External Functions](SnowparkAndExtensibility/ExternalFunctions.md)
-* [UDFs and UDTFs](SnowparkAndExtensibility/UDFs_UDTFs.md)
-* [Stored Procedures](SnowparkAndExtensibility/StoredProcedures.md) 
+* [Overview](9.%20SnowparkAndExtensibility/Overview.md)
+* [Snowpark](9.%20SnowparkAndExtensibility/Snowpark.md)
+* [External Functions](9.%20SnowparkAndExtensibility/ExternalFunctions.md)
+* [UDFs and UDTFs](9.%20SnowparkAndExtensibility/UDFs_UDTFs.md)
+* [Stored Procedures](9.%20SnowparkAndExtensibility/StoredProcedures.md)
 
 ## Monitoring and Usage ##
-* [Overview](MonitoringAndUsage/Overview.md)
-* [Query History](MonitoringAndUsage/QueryHistory.md)
-* [Usage Monitoring](MonitoringAndUsage/UsageMonitoring.md)
-* [Billing and Cost](MonitoringAndUsage/BillingAndCost.md)
+* [Overview](10.%20MonitoringAndUsage/Overview.md)
+* [Query History](10.%20MonitoringAndUsage/QueryHistory.md)
+* [Usage Monitoring](10.%20MonitoringAndUsage/UsageMonitoring.md)
+* [Billing and Cost](10.%20MonitoringAndUsage/BillingAndCost.md)
 
 ## Client Tools and Connectivity ##
-* [Overview](ClientToolsAndConnectivity/Overview.md)
-* [SnowSQL](ClientToolsAndConnectivity/SnowSQL.md)
-* [Snowsight](ClientToolsAndConnectivity/Snowsight.md)
-* [ODBC and JDBC](ClientToolsAndConnectivity/ODBC_JDBC.md)
-* [Connectors and Drivers](ClientToolsAndConnectivity/ConnectorsAndDrivers.md) 
-* [Integrations](ClientToolsAndConnectivity/Integrations.md)
+* [Overview](11.%20ClientToolsAndConnectivity/Overview.md)
+* [SnowSQL](11.%20ClientToolsAndConnectivity/SnowSQL.md)
+* [Snowsight](11.%20ClientToolsAndConnectivity/Snowsight.md)
+* [ODBC and JDBC](11.%20ClientToolsAndConnectivity/ODBC_JDBC.md)
+* [Connectors and Drivers](11.%20ClientToolsAndConnectivity/ConnectorsAndDrivers.md)
+* [Integrations](11.%20ClientToolsAndConnectivity/Integrations.md)
 
 ## Exam Tips ##
 

@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Snowflake Editions](Editions.md) | Next: [Organizations, Accounts, Databases And Schemas](OrganizationsAccountsDatabasesAndSchemas.md)
+
 # Objects #
 * All objects in Snowflake are securable - privileges on objects can be granted to Roles and Roles are granted to Users.
 * Additionally, all objects can be interacted with and configured via SQL given the user has sufficient privileges.
