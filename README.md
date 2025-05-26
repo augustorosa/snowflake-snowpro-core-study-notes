@@ -2,7 +2,6 @@
 
 > * [SnowPro Certifications](https://www.snowflake.com/certifications/)
 > * [[COF-C02] SnowPro Core Certification Exam Guide](https://learn.snowflake.com/courses/course-v1:snowflake+CERT-SPC-GUIDE+B/about)
-> * [[COF-C02] SnowPro Core Certification Exam Study Guide](https://learn.snowflake.com/courses/course-v1:snowflake+SPSG-CORE+B/about)
 
 ## Snowflake Overview and Architecture ##
 * [Architecture](Overview/Architecture.md)
