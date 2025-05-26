@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [DataMarketplace.md](DataMarketplace.md) | Next: [ExternalFunctions.md](../9. SnowparkAndExtensibility/ExternalFunctions.md)
+
 # Overview of Marketplace and Data Exchange
 
 *Notes related to Marketplace and Data Exchange: General overview of Snowflake Data Marketplace and Data Exchange.*

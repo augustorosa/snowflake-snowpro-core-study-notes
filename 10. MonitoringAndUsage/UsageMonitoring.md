@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [QueryHistory.md](QueryHistory.md) | Next: [ConnectorsAndDrivers.md](../11. ClientToolsAndConnectivity/ConnectorsAndDrivers.md)
+
 # Usage Monitoring
 
 *Notes related to Monitoring and Usage: Monitoring resource and credit usage.*

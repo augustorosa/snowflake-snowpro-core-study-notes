@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [QueryBestPractices.md](../7. SQLAndQuerying/QueryBestPractices.md) | Next: [DataMarketplace.md](DataMarketplace.md)
+
 # Data Exchange
 
 *Notes related to Marketplace and Data Exchange: Snowflake Data Exchange.*

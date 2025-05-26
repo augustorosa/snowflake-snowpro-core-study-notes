@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Overview.md](Overview.md) | Next: [LoadAndUnloadSemiStructuredData.md](../6. SemiStructuredData/LoadAndUnloadSemiStructuredData.md)
+
 # Virtual Warehouse Scaling #
 
 * As queries are submitted, resources are calculated and reserved prior to the query execution

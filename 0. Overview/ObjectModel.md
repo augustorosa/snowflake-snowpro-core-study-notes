@@ -1,4 +1,4 @@
-[Back to README](../README.md) | Previous: [Snowflake Editions](Editions.md) | Next: [Organizations, Accounts, Databases And Schemas](OrganizationsAccountsDatabasesAndSchemas.md)
+[Back to README](../README.md) | Previous: [Editions.md](Editions.md) | Next: [OrganizationsAccountsDatabasesAndSchemas.md](OrganizationsAccountsDatabasesAndSchemas.md)
 
 # Objects #
 * All objects in Snowflake are securable - privileges on objects can be granted to Roles and Roles are granted to Users.
@@ -171,14 +171,14 @@ See [Resource Monitors](../VirtualWarehouses/ResourceMonitors.md)
 Sequences are schema-level objects used to generate unique numbers across sessions and statements, including concurrent statements. They can generate values for a primary key or any column that requires a unique value. They have an initial value and an interval.
 
 You can access sequences in queries as expressions. The function `nextval`, will generate the next unique sequential value.
-```postgres-psql
+\`\`\`postgres-psql
 CREATE OR REPLACE SEQUENCE seq START = 1 INCREMENT = 5;
 CREATE OR REPLACE TABLE PEOPLE 
 (
   ID NUMBER DEFAULT seq.nextval, 
   NAME VARCHAR(50)
 );
-```
+\`\`\`
 
 ## Pipe ##
 A special type of object which enables the automatic loading of data from Stage files as soon as they are available.
@@ -200,9 +200,9 @@ Extend the system to perform operations.
 * Stored Procedures can run multiple SQL statements
 * Stored Procedures are allowed, but not required, to explicitly return a value (such as an error indicator)
 * Stored Procedures are called as independent statements
-  ```postgres-psql
+  \`\`\`postgres-psql
   CALL MyStoredProcedure_1(argument_1);
-  ```
+  \`\`\`
 * The returned values CANNOT be used directly in a SQL statement
 * Every `CREATE PROCEDURE` statement must include a `RETURNS` clause that defines a return type, even if the procedure does not explicitly return anything
 * Store Procedures CANNOT return a set of rows
@@ -234,9 +234,9 @@ UDFs extend Snowflake to perform operations that are not available through built
 * The returned value(s) CAN be used directly in statement SQL
 * While system functions can be listed with `SHOW FUNCTIONS;`, to list UDFs, use `SHOW USER FUNCTIONS;`
 * When calling a UDF which returns a table, you must wrap it in the `TABLE()` function
-  ```postgres-psql
+  \`\`\`postgres-psql
   SELECT * FROM TABLE(MY_UDTF_FUNCTION(param1, param2));
-  ```
+  \`\`\`
 
 ## Data Shares ##
 See [Data Sharing](DataSharing.md)

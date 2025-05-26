@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Pricing.md](../0. Overview/Pricing.md) | Next: [VirtualWarehouses.md](VirtualWarehouses.md)
+
 # Resource Monitor #
 > [Resource Monitor](https://docs.snowflake.com/en/user-guide/resource-monitors.html)
 

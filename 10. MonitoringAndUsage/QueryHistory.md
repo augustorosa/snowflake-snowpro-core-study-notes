@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Overview.md](Overview.md) | Next: [UsageMonitoring.md](UsageMonitoring.md)
+
 # Query History
 
 *Notes related to Monitoring and Usage: Understanding and using Query History.*

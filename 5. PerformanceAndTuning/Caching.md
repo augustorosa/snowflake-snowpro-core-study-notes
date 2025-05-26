@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Overview.md](../4. AccountAndSecurity/Overview.md) | Next: [DataClustering.md](DataClustering.md)
+
 # Caching #
 
 One of the most important ways to improve the speed of queries in Snowflake and optimize costs is the cache. There are several different caches in Snowflake: Metadata, Query Result, and Warehouse cache.

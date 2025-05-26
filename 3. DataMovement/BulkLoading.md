@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [ZeroCopyCloning.md](../2. Storage/ZeroCopyCloning.md) | Next: [ContinuousDataLoading.md](ContinuousDataLoading.md)
+
 # Bulk Loading #
 
 Bulk load is the process of loading batches of data from files available in a stage into Snowflake tables.

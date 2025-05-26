@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Overview.md](../8. MarketplaceAndDataExchange/Overview.md) | Next: [Overview.md](Overview.md)
+
 # External Functions
 
 *Notes related to Snowpark and Extensibility: Using External Functions.*

@@ -1,4 +1,4 @@
-[Back to README](../README.md) | Previous: [Architecture](Architecture.md) | Next: [Object Model](ObjectModel.md)
+[Back to README](../README.md) | Previous: [DataSharing.md](DataSharing.md) | Next: [ObjectModel.md](ObjectModel.md)
 
 # Snowflake Editions #
 [Feature / Edition Matrix](https://docs.snowflake.com/en/user-guide/intro-editions#feature-edition-matrix)

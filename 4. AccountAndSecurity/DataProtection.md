@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [Authorization.md](Authorization.md) | Next: [Overview.md](Overview.md)
+
 # Data Protection #
 
 > [Continuous Data Protection](https://docs.snowflake.com/en/user-guide/data-cdp.html)

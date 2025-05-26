@@ -1,3 +1,5 @@
+[Back to README](../README.md) | Previous: [ContinuousDataProcessing.md](ContinuousDataProcessing.md) | Next: [Overview.md](Overview.md)
+
 # Data Unloading #
 
 Similar to [Bulk Loading](BulkLoading.md), unloading uses the `COPY INTO` command to unload data to an internal or external stage. The difference is that, when unloading, we would
