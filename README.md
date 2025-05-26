@@ -6,13 +6,14 @@ Next: [0. Overview.md](0. Overview/0. Overview.md)
 > * [[COF-C02] SnowPro Core Certification Exam Guide](https://learn.snowflake.com/courses/course-v1:snowflake+CERT-SPC-GUIDE+B/about)
 
 ## Snowflake Overview and Architecture ##
+* [Overview](0.%20Overview/0.%20Overview.md)
 * [Architecture](0.%20Overview/Architecture.md)
 * [Snowflake Editions](0.%20Overview/Editions.md)
 * [Object Model](0.%20Overview/ObjectModel.md)
   * [Organizations, Accounts, Databases And Schemas](0.%20Overview/OrganizationsAccountsDatabasesAndSchemas.md)
 * [Data Sharing](0.%20Overview/DataSharing.md)
 * [Pricing](0.%20Overview/Pricing.md)
-* [Overview](0.%20Overview/Overview.md)
+  
 
 ## Virtual Warehouses ##
 * [Virtual Warehouses](1.%20VirtualWarehouses/VirtualWarehouses.md)
