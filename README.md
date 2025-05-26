@@ -18,7 +18,7 @@
 
 ## Storage and Data Protection ##
 * [Data Storage Layer](Storage/DataStorageLayer.md)
-* [Zero-Copy Cloning](Storage/ZeroCopyCloning.md) <!-- Suggested Addition -->
+* [Zero-Copy Cloning](Storage/ZeroCopyCloning.md) 
 
 ## Data Movement ##
 * [Overview](DataMovement/Overview.md)
@@ -39,7 +39,7 @@
 * [Caching](PerformanceAndTuning/Caching.md)
 * [Data Clustering](PerformanceAndTuning/DataClustering.md)
 * [Virtual Warehouse Scaling](PerformanceAndTuning/VirtualWarehouseScaling.md)
-* [Materialized Views](PerformanceAndTuning/MaterializedViews.md) <!-- Suggested Addition -->
+* [Materialized Views](PerformanceAndTuning/MaterializedViews.md) 
 
 ## Semi-Structured Data ##
 * [Overview](SemiStructuredData/Overview.md)
@@ -62,7 +62,7 @@
 * [Snowpark](SnowparkAndExtensibility/Snowpark.md)
 * [External Functions](SnowparkAndExtensibility/ExternalFunctions.md)
 * [UDFs and UDTFs](SnowparkAndExtensibility/UDFs_UDTFs.md)
-* [Stored Procedures](SnowparkAndExtensibility/StoredProcedures.md) <!-- Suggested Addition -->
+* [Stored Procedures](SnowparkAndExtensibility/StoredProcedures.md) 
 
 ## Monitoring and Usage ##
 * [Overview](MonitoringAndUsage/Overview.md)
@@ -75,7 +75,7 @@
 * [SnowSQL](ClientToolsAndConnectivity/SnowSQL.md)
 * [Snowsight](ClientToolsAndConnectivity/Snowsight.md)
 * [ODBC and JDBC](ClientToolsAndConnectivity/ODBC_JDBC.md)
-* [Connectors and Drivers](ClientToolsAndConnectivity/ConnectorsAndDrivers.md) <!-- Suggested Addition -->
+* [Connectors and Drivers](ClientToolsAndConnectivity/ConnectorsAndDrivers.md) 
 * [Integrations](ClientToolsAndConnectivity/Integrations.md)
 
 ## Exam Tips ##

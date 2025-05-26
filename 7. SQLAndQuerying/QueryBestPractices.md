@@ -5,6 +5,7 @@
 ## Key Topics
 *   **Understanding the Query Profile:**
     *   How to access and interpret the Query Profile in Snowsight.
+    ![Query Profile](../images/QueryProfile.png)
     *   Identifying bottlenecks (e.g., full table scans, inefficient joins, data spillage).
 *   **Data Pruning:**
     *   Selecting only necessary columns (`SELECT col1, col2` instead of `SELECT *`).
