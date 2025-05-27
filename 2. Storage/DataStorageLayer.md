@@ -46,3 +46,6 @@ The Cloud Services Layer metadata also allows the processing of certain queries 
     * Billed upfront for committed storage capacity
     * Price varies depending on cloud platform
     * Customer is notified when they have consumed 70% of pre-purchased capacity
+
+
+[Back to README](../README.md) | Previous: [VirtualWarehouses.md](../1. VirtualWarehouses/VirtualWarehouses.md) | Next: [ZeroCopyCloning.md](ZeroCopyCloning.md)

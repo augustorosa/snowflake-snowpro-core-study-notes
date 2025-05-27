@@ -32,3 +32,6 @@ The actual SQL is executed across the nodes of a Virtual Data Warehouse. This la
 * You can get information on how much data is read from Local (Warehouse) storage vs. Remote (Storage layer) by inspecting the query profile's "Scanned Bytes" metric.
 * It is recommended to use dedicated Virtual Warehouses for similar workloads. For example, a Virtual Warehouse for BI tasks, another for Data Science, etc. There is a chance that data cached by the warehouse for similar queries can can be re-used
 * The larger a warehouse is, the larger the warehouse cache size is
+
+
+[Back to README](../README.md) | Previous: [Overview.md](../4. AccountAndSecurity/Overview.md) | Next: [DataClustering.md](DataClustering.md)

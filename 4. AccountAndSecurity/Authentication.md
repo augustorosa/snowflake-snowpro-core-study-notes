@@ -16,3 +16,6 @@ Identifies the user and confirms whether they are allowed to login.
   * Oauth: authentication from a 3rd party service or application
   * Key Pair: JSON Web Token (JWT) signed with a private/public RSA key pair
   * SCIM (System Cross-domain Identity Management): often used in Azure or Okta
+
+
+[Back to README](../README.md) | Previous: [AccessControl.md](AccessControl.md) | Next: [Authorization.md](Authorization.md)

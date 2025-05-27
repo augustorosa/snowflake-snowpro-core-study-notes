@@ -19,3 +19,6 @@ Semi-structured data is supported using the `VARIANT` data type:
 * Arrays - collection of values where each value is a `VARIANT`
 * non-native values (e.g. dates, timestamps) are stored as strings in `VARIANT` columns
 * operations can be slower than when stored as the corresponding data type
+
+
+[Back to README](../README.md) | Previous: [LoadAndUnloadSemiStructuredData.md](LoadAndUnloadSemiStructuredData.md) | Next: [QuerySemiStructuredData.md](QuerySemiStructuredData.md)

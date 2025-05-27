@@ -13,3 +13,6 @@
     *   **Snowsight:** Web UI providing dashboards and detailed views for query history, warehouse usage, storage, tasks, etc.
     *   **SQL:** Querying `ACCOUNT_USAGE` schema views and `INFORMATION_SCHEMA` table functions.
 *   **Key Areas to Monitor:** Query performance, warehouse utilization, storage consumption, credit usage, data loading processes, task execution, security events.
+
+
+[Back to README](../README.md) | Previous: [BillingAndCost.md](BillingAndCost.md) | Next: [QueryHistory.md](QueryHistory.md)

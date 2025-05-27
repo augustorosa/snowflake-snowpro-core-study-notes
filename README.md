@@ -106,3 +106,6 @@ Obs: There are quite a lot of ambiguous questions and the showing result might n
 * [Udemy: [COF-C02] Snowflake SnowPro Core Certification Practice Sets](https://www.udemy.com/course/snowflake-snowpro-core-certification-exam-practice-sets/)
 
 * [Snowflake SnowPro Core Practice Exams (2025)] (https://certificationpractice.com/practice-exams/snowflake-snowpro-core/)
+
+
+Next: [0. Overview.md](0. Overview/0. Overview.md)

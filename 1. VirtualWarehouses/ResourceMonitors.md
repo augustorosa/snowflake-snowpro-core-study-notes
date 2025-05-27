@@ -62,3 +62,6 @@ If a Resource Monitor suspends a Warehouse, it cannot be restarted unless one of
 * The credit threshold for the suspend action is increased. 
 * The warehouses are no longer assigned to the monitor. 
 * The monitor is dropped.
+
+
+[Back to README](../README.md) | Previous: [Pricing.md](../0. Overview/Pricing.md) | Next: [VirtualWarehouses.md](VirtualWarehouses.md)

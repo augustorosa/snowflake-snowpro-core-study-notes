@@ -63,3 +63,6 @@ A transaction is a sequence of SQL statements that are committed or rolled back 
 * You can abort a running transaction with the system function `SYSTEM$ABORT_TRANSACTION `
 * Each transaction has independent scope
 * Snowflake does not support nested Transactions, although it supports nested Stored Procedure calls
+
+
+[Back to README](../README.md) | Previous: [ResourceMonitors.md](ResourceMonitors.md) | Next: [DataStorageLayer.md](../2. Storage/DataStorageLayer.md)

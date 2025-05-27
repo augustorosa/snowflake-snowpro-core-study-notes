@@ -109,3 +109,6 @@ MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
 * Supported formats
   * JSON: Unload from a `VARIANT` column or reconstruct a JSON format
   * Parquet: Use a `SELECT` to unload the table columns into a Parquet file
+
+
+[Back to README](../README.md) | Previous: [VirtualWarehouseScaling.md](../5. PerformanceAndTuning/VirtualWarehouseScaling.md) | Next: [Overview.md](Overview.md)

@@ -22,3 +22,6 @@
 * A container for database objects such as tables, views, stages, etc.
 * Belongs to a database.
 * Provides a logical grouping for objects.
+
+
+[Back to README](../README.md) | Previous: [ObjectModel.md](ObjectModel.md) | Next: [Pricing.md](Pricing.md)

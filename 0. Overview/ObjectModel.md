@@ -240,3 +240,6 @@ UDFs extend Snowflake to perform operations that are not available through built
 
 ## Data Shares ##
 See [Data Sharing](DataSharing.md)
+
+
+[Back to README](../README.md) | Previous: [Editions.md](Editions.md) | Next: [OrganizationsAccountsDatabasesAndSchemas.md](OrganizationsAccountsDatabasesAndSchemas.md)

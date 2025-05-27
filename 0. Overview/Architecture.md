@@ -70,3 +70,6 @@ Snowflake's unique architecture consists of three layers, all of them with High 
 * Availability
 * Transparent online updates and patches
 * Runs on Snowflake-managed compute
+
+
+[Back to README](../README.md) | Previous: [0. Overview.md](0. Overview.md) | Next: [DataSharing.md](DataSharing.md)

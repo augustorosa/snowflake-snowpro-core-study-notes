@@ -47,3 +47,6 @@ ALTER USER <username> SET NETW0RK_POLICY = <policy_name>;
 * Allow hostnames:
   * all Snowflake clients require temporary access to the provider cloud storage
   * `SYSTEM$ALLOW_LIST()` lists the required hostnames for your Snowflake account
+
+
+[Back to README](../README.md) | Previous: [Overview.md](../3. DataMovement/Overview.md) | Next: [Authentication.md](Authentication.md)

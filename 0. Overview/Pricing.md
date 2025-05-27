@@ -39,3 +39,6 @@ Customers who wish to move or copy their data between regions or cloud providers
 * Pre-paid: Pre-purchase Capacity, which involves a commitment to Snowflake. The Capacity purchased is then consumed monthly, providing lower prices and a long-term price guarantee, among other advantages.
 
 ![](../images/OnDemandVsPrePurchaseCapacityForStorage.webp)
+
+
+[Back to README](../README.md) | Previous: [OrganizationsAccountsDatabasesAndSchemas.md](OrganizationsAccountsDatabasesAndSchemas.md) | Next: [ResourceMonitors.md](../1. VirtualWarehouses/ResourceMonitors.md)

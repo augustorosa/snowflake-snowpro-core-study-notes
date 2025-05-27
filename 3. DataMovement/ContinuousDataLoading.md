@@ -39,3 +39,6 @@ Once Snowpipe receives a trigger for the ingestion, whether via the REST API or 
 Customers are billed for the cloud compute used by Snowpipe per-second, per-core on actual compute usage.
 
 In addition to the cloud compute costs, there is an utilization cost charge of 0.06 credits per 1000 files notified by using the REST API or `AUTO_INGEST`
+
+
+[Back to README](../README.md) | Previous: [BulkLoading.md](BulkLoading.md) | Next: [ContinuousDataProcessing.md](ContinuousDataProcessing.md)

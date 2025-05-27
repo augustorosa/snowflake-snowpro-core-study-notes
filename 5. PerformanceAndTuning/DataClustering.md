@@ -65,3 +65,6 @@ CLUSTER BY (<column_or_expression>, ...)
   * `partition_depth_histogram` with a high number of low value depths
 * You can cluster materialized views, as well as tables
 * Snowflake recommends a maximum of 3 or 4 columns (or expressions) per key.
+
+
+[Back to README](../README.md) | Previous: [Caching.md](Caching.md) | Next: [MaterializedViews.md](MaterializedViews.md)

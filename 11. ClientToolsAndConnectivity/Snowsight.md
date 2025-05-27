@@ -19,3 +19,6 @@
         *   Account: General account settings, billing, security.
     *   **Marketplace:** Accessing third-party data.
 *   **Context Switching:** Changing role, warehouse, database, schema.
+
+
+[Back to README](../README.md) | Previous: [SnowSQL.md](SnowSQL.md)
