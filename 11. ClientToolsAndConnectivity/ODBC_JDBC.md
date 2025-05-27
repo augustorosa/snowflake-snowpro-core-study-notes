@@ -16,3 +16,6 @@
     *   Connection URL format and parameters.
     *   Use cases: Java applications, ETL tools, SQL IDEs (e.g., DBeaver, DataGrip).
 *   **Authentication Methods:** Supported authenticators with drivers (e.g., password, OAuth, key pair, external browser).
+
+
+[Back to README](../README.md) | Previous: [Integrations.md](Integrations.md) | Next: [Overview.md](Overview.md)

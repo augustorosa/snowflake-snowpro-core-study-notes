@@ -75,3 +75,4 @@ Also known as the Global Services Layer, it is a collection of highly available 
 * Runs on Snowflake-managed compute
 
 [Back to README](../README.md) | Previous: [0. Overview.md](0. Overview.md) | Next: [DataSharing.md](DataSharing.md)
+

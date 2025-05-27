@@ -17,3 +17,6 @@
 *   **SQL IDEs & Development Tools:**
     *   DBeaver, DataGrip, VS Code with SQL extensions.
 *   **Partner Connect:** Simplified trial and connection setup for select partners directly from Snowsight.
+
+
+[Back to README](../README.md) | Previous: [ConnectorsAndDrivers.md](ConnectorsAndDrivers.md) | Next: [ODBC_JDBC.md](ODBC_JDBC.md)

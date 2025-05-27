@@ -39,3 +39,6 @@ A schema-level named object which defines the format information required for Sn
   * A File Format can be attached to a stage - automatically associates the File Format for all files stored in the stage
   * A File Format can be attached to a table - automatically associates the File Format for all `COPY INTO` commands targeting the table
   * A File Format can be specified for each `COPY INTO` command which will override the stage or table ones, if specified
+
+
+[Back to README](../README.md) | Previous: [DataUnloading.md](DataUnloading.md) | Next: [AccessControl.md](../4. AccountAndSecurity/AccessControl.md)

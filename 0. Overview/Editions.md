@@ -87,3 +87,6 @@ Business Critical Edition but in a completely separate Snowflake environment, is
 
 ## Government Regions ##
 For government agencies that require compliance with US federal privacy and security standards, such as FIPS 140–2 and FedRAMP, Snowflake provides support for those only on Amazon Web Services and Azure. These government regions are only supported on Business-Critical Edition or higher.
+
+
+[Back to README](../README.md) | Previous: [DataSharing.md](DataSharing.md) | Next: [ObjectModel.md](ObjectModel.md)

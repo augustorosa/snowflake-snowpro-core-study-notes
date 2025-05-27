@@ -58,3 +58,6 @@ Multi-cluster warehouses can work in
 
 ## Scaling Considerations ##
 * Query processing cannot cross clusters, so, even though the number or clusters is the same, a complex query will perform differently on a 4-cluster multi-cluster warehouse made of `X-Small` clusters compared to a single-cluster `Medium` warehouse.
+
+
+[Back to README](../README.md) | Previous: [Overview.md](Overview.md) | Next: [LoadAndUnloadSemiStructuredData.md](../6. SemiStructuredData/LoadAndUnloadSemiStructuredData.md)

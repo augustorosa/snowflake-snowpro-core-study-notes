@@ -37,3 +37,6 @@ GET @my_int_stage file:///tmp/data/;
 * `FIELD_OPTIONALLY_ENCLOSED_BY` - specify the character to use to enclose your fields
 * `EMPTY_FIELD_AS_NULL` - convert empty fields into `NULL`, the default is `FALSE`
 * `NULL_IF` - convert `NULL` values to something else
+
+
+[Back to README](../README.md) | Previous: [ContinuousDataProcessing.md](ContinuousDataProcessing.md) | Next: [Overview.md](Overview.md)

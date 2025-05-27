@@ -71,3 +71,6 @@ VALIDATE([namespace.]<table_name>,
   JOB_ID => { '<query_id>' | _last }
 );
 ```
+
+
+[Back to README](../README.md) | Previous: [ZeroCopyCloning.md](../2. Storage/ZeroCopyCloning.md) | Next: [ContinuousDataLoading.md](ContinuousDataLoading.md)

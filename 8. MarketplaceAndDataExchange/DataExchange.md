@@ -12,3 +12,6 @@
 *   **For Consumers within the Exchange:** Discovering and accessing data shared by other members.
 *   **Use Cases:** Sharing data with business partners, suppliers, customers, or between internal business units.
 *   **Governance and Control:** Maintaining control over who can join and what data is shared.
+
+
+[Back to README](../README.md) | Previous: [QueryBestPractices.md](../7. SQLAndQuerying/QueryBestPractices.md) | Next: [DataMarketplace.md](DataMarketplace.md)

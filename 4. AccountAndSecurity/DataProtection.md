@@ -107,3 +107,6 @@ Non-configurable, 7-day retention for historical data after the Time Travel expi
 
 ### Snowflake replication features ###
 Snowflake provides customers with additional replication features, over and above the cloud providers' replication across availability zones.
+
+
+[Back to README](../README.md) | Previous: [Authorization.md](Authorization.md) | Next: [Overview.md](Overview.md)

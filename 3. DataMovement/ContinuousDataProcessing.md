@@ -82,3 +82,6 @@ When created, a table stream logically takes an initial snapshot of every row in
   * if the row has not been modified, there will be no Stream record at all
   * if the row was modified but then it was reverted to its original state when the stream was first created, the Stream record for that row will be removed
 * Multiple streams can be created for the same table and consumed by different tasks
+
+
+[Back to README](../README.md) | Previous: [ContinuousDataLoading.md](ContinuousDataLoading.md) | Next: [DataUnloading.md](DataUnloading.md)

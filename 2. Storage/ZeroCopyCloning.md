@@ -14,3 +14,6 @@
     *   Creating sandboxes for data analysis or experimentation.
 *   **Syntax:** `CREATE <object_type> <clone_name> CLONE <source_object_name> [AT | BEFORE (TIMESTAMP | OFFSET | STATEMENT => '<statement_id>')]`
 *   **Impact on Time Travel:** Clones inherit the Time Travel history of the source object up to the point of cloning.
+
+
+[Back to README](../README.md) | Previous: [DataStorageLayer.md](DataStorageLayer.md) | Next: [BulkLoading.md](../3. DataMovement/BulkLoading.md)

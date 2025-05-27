@@ -86,3 +86,6 @@ The preferred way to share data is by using Secure Views:
 ## Types ##
 * Public Data Marketplace
 * Private Data Exchange
+
+
+[Back to README](../README.md) | Previous: [Architecture.md](Architecture.md) | Next: [Editions.md](Editions.md)

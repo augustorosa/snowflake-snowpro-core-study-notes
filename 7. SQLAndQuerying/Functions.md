@@ -17,3 +17,6 @@
     *   **Java UDFs (via Snowpark):** Scalar or tabular, leverage Java ecosystem.
     *   **Python UDFs (via Snowpark):** Scalar or tabular, leverage Python ecosystem.
 *   **User-Defined Table Functions (UDTFs):** Functions that return a set of rows, often used with JavaScript, Java, or Python.
+
+
+[Back to README](../README.md) | Previous: [DDL_DML.md](DDL_DML.md) | Next: [Overview.md](Overview.md)

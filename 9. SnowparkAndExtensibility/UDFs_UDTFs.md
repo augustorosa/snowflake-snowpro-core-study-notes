@@ -23,3 +23,6 @@
     *   Support procedural logic, SQL execution, variable handling.
     *   Languages: SQL (Scripting), JavaScript, Java (Snowpark), Python (Snowpark), Scala (Snowpark).
 *   **Performance Considerations:** Language choice, complexity of logic.
+
+
+[Back to README](../README.md) | Previous: [StoredProcedures.md](StoredProcedures.md) | Next: [BillingAndCost.md](../10. MonitoringAndUsage/BillingAndCost.md)
